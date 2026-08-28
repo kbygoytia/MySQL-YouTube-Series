@@ -10,7 +10,7 @@ SELECT *
 FROM parks_and_recreation.employee_demographics;
 
 
-#Let's try selecting a specific column
+# Let's try selecting a specific column
 SELECT first_name
 FROM employee_demographics;
 
